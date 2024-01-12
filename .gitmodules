@@ -1,0 +1,3 @@
+[submodule "AltTerraform-Mini-Project"]
+	path = AltTerraform-Mini-Project
+	url = https://github.com/Opebiodun/terraform.git
