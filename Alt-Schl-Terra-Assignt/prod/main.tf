@@ -1,7 +1,7 @@
 provider "aws" {
   region = "eu-central-1"
-  access_key = "AKIAX4YCLJLGCEDU55XW"
-  secret_key = "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"
+  access_key = "XXXXXXXXXXXXXXXXXXX"
+  secret_key = "XXXXXXXXXXXXXXXXXXX"
 }
 
 module "instances" {
